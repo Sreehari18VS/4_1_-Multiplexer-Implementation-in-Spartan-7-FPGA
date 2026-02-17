@@ -1,4 +1,5 @@
 # 4_1_-Multiplexer-Implementation-in-Spartan-7-FPGA
+# EXP NO: 1.B 4:1 Multiplexer Implementation in Spartan-7 FPGA
 # Aim
 To design, synthesize, and implement a 4:1 Multiplexer using Verilog HDL on a Spartan-7 FPGA using Xilinx Vivado Design Suite.
 
